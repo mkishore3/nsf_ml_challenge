@@ -2,7 +2,7 @@
 
 This project demonstrates the use of TensorFlow for training a binary image classification model. The model is designed to classify images based on labels provided in a CSV file. It uses convolutional neural networks (CNNs) to process and classify images and is structured to handle the dataset efficiently. It was completed as part of a hackathon run by UCSD SMASH for the NSF HDR ML Challenge Hackathon. 
 
-# Contributors: Mythri Kishore, Esther Chung, Preethi Manne, Sathvika Goriparthy
+## Contributors: Mythri Kishore, Esther Chung, Preethi Manne, Sathvika Goriparthy
 
 # Prerequisites
 Make sure to install the required dependencies before running the script:
